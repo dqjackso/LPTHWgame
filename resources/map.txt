@@ -1,0 +1,8 @@
+			LeaveRoom	
+	ClownRoom	EmptyHallway	VampireRoom	EmptyHallway
+		EmptyHallway		
+		EmptyHallway		
+MickeyRoom	EmptyHallway	StartingRoom	Doorway	LivingRoom
+		SnoopyRoom		
+		EmptyHallway		Kitchen		
+		SnakePitRoom		
